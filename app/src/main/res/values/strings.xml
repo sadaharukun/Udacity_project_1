@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Hello_android</string>
+    <string name="myworks">我的应用作品集</string>
+    <string name="namiprogress">纳米学位应用</string>
+    <string name="movies">热门电影</string>
+    <string name="gupiao">股票</string>
+    <string name="reader">xyz阅读器</string>
+    <string name="news">热门新闻</string>
+    <string name="gDesign">毕业设计</string>
 </resources>
